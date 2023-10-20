@@ -3,12 +3,13 @@
     {
       "src": "favicon.ico",
       "type": "image/x-icon",
-      "sizes": "16x16 32x32 48x48"
+      "sizes": "48x48"
     },
     {
       "src": "favicon.svg",
       "type": "image/svg+xml",
-      "sizes": "48x48 72x72 96x96 128x128 256x256"
+      "sizes": "150x150",
+      "purpose": "any"
     },
     {
       "src": "icon-180.png",
@@ -31,7 +32,7 @@
     {
       "src": "icon-mask.svg",
       "type": "image/svg+xml",
-      "sizes": "48x48 72x72 96x96 128x128 256x256",
+      "sizes": "150x150",
       "purpose": "monochrome"
     }
   ]
