@@ -14,19 +14,19 @@
       "src": "icon-180.png",
       "type": "image/png",
       "sizes": "180x180",
-      "purpose": "maskable any"
+      "purpose": "maskable"
     },
     {
       "src": "icon-192.png",
       "type": "image/png",
       "sizes": "192x192",
-      "purpose": "maskable any"
+      "purpose": "maskable"
     },
     {
       "src": "icon-512.png",
       "type": "image/png",
       "sizes": "512x512",
-      "purpose": "maskable any"
+      "purpose": "maskable"
     },
     {
       "src": "icon-mask.svg",
